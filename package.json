@@ -1,0 +1,24 @@
+{
+  "name": "b-day-reminder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/script-kidd0/b-day-reminder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/script-kidd0/b-day-reminder/issues"
+  },
+  "homepage": "https://github.com/script-kidd0/b-day-reminder#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-scss": "^1.4.0"
+  }
+}
